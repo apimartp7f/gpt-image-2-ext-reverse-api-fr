@@ -1,10 +1,27 @@
-# GPT-Image-2 Ext — rétro-ingénierie route (Français)
+# GPT Image 2 API (`gpt-image-2`)
 
-> **1K $0.0085; 2K $0.014; 4K $0.021** · model ID `gpt-image-2` · **rétro-ingénierie/reverse-engineered** route.
+<!-- conv-kit:v1 -->
 
-**[Voir les tarifs](https://go.apimart.ai/k-cae860)** · **[Obtenir une clé API](https://go.apimart.ai/k-4f1a3d)**
+<p align="center">
+  <img src="assets/badges/price.svg" alt="observed unit price"> <img src="assets/badges/billing.svg" alt="billing model"> <img src="assets/badges/compat.svg" alt="OpenAI-compatible endpoint">
+</p>
 
-gpt-image-2-ext-reverse-api-fr est une route **rétro-ingénierie** pour GPT-Image-2 Ext : ID appelable `gpt-image-2`, en parallèle de la route officielle (`gpt-image-2-official`) à un prix unitaire plus bas.
+<p align="center">
+  <img src="assets/01-product-hero-perfume.jpg" width="820" alt="GPT Image 2 (gpt-image-2) output generated through APIMart">
+</p>
+
+> **from $0.0085 per image** (1K $0.0085 · 2K $0.014 · 4K $0.021) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+
+**[Get an API key](https://go.apimart.ai/k-4f1a3d)** · **[Live pricing](https://go.apimart.ai/k-ba7664)** · **[Model page](https://go.apimart.ai/k-27bd03)** · [⚡ 60-second quickstart](#quickstart)
+
+**Why teams call GPT Image 2 (`gpt-image-2`) through APIMart**
+
+- **One key, entire catalog.** The same `https://api.apimart.ai/v1` base URL and `Authorization` header reach GPT Image 2 (`gpt-image-2`) and 300+ other image, video and language models — switch the `model` field, not your client.
+- **$1 minimum, pay as you go.** No subscription and no prepaid plan to size up front: top up from $1 and spend it on calls. There is no free quota to burn through first, so the price in this table is the price you pay.
+- **The charge comes back in the response.** Every completed task reports the amount billed (`cost` / `credits_cost`), so a spend number is read per call instead of guessed at month end.
+- **Async by design.** Submit, take the `task_id`, poll `GET /v1/tasks/{id}` — batching and retries are ordinary queue work, not a bespoke integration.
+
+<!-- /conv-kit:v1 -->
 
 ## Pricing (snapshot 2026-09-28)
 
